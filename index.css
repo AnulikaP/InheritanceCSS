@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(242, 204, 170);
+}
+.i_like{ 
+    border: 1px solid;
+    border-width: 5px;
+    font-weight: 300cm;
+
+
+}
+.i_dislike{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    color: brown;
+
+
+}
+#dislike{
+    font-size: larger;
+}
+
+#heading{
+    font-style: italic;
+
+}
+
+#dislike3{
+    font-size: smaller;
+
+}
